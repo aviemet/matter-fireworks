@@ -1,0 +1,14 @@
+{
+  "name": "matter-fireworks",
+  "version": "1.0.0",
+  "description": "Displays fireworks using Matter.js",
+  "main": "Fireworks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avram Walden (aviemet)",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
