@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Avram Walden (aviemet)",
+  "repository": "https://github.com/aviemet/matter-fireworks",
   "license": "ISC",
   "dependencies": {
     "matter-js": "^0.14.2"
